@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RKE132 - Week 6 - sõned ja massiivid", "RKE132 - Week 6 - sõned ja massiivid\RKE132 - Week 6 - sõned ja massiivid.csproj", "{C6483E28-9107-4C5C-98B4-C99DF36E142F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Massiivid", "Massiivid\Massiivid.csproj", "{7BE1FE71-02EC-4D29-8538-BBE44F0521AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C6483E28-9107-4C5C-98B4-C99DF36E142F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6483E28-9107-4C5C-98B4-C99DF36E142F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6483E28-9107-4C5C-98B4-C99DF36E142F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6483E28-9107-4C5C-98B4-C99DF36E142F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7BE1FE71-02EC-4D29-8538-BBE44F0521AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7BE1FE71-02EC-4D29-8538-BBE44F0521AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7BE1FE71-02EC-4D29-8538-BBE44F0521AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7BE1FE71-02EC-4D29-8538-BBE44F0521AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26D05C33-F399-4C73-8C96-935342A4B3FB}
+	EndGlobalSection
+EndGlobal
